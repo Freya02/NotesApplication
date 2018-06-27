@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "748380235666",
+    "firebase_url": "https://notesapplication-6a99c.firebaseio.com",
+    "project_id": "notesapplication-6a99c",
+    "storage_bucket": "notesapplication-6a99c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748380235666:android:0d1ef61925e287de",
+        "android_client_info": {
+          "package_name": "com.example.freya.notesapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748380235666-ni0r21d20jo7grlfp19m49mbg0cmmrl1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.freya.notesapplication",
+            "certificate_hash": "ed6dacd1bfcb3f1fc9d2184e09da3f61f7b5d90f"
+          }
+        },
+        {
+          "client_id": "748380235666-i68er0u229o9hd46a2fs71a0uhij4b8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCV6N6Fwjp3bNOBcbTBaIDxPlqhpRCdJI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748380235666-i68er0u229o9hd46a2fs71a0uhij4b8t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
